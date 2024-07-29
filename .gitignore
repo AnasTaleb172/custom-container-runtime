@@ -1,2 +1,10 @@
 /container_filesystem_root
+
+# Build files
 container_runtime
+
+# Object files
+*.o
+
+# Compiled source
+*.out
